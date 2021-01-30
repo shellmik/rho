@@ -1,0 +1,62 @@
+{
+  "navigation": {
+    "search": "Buscar",
+    "main": {
+      "home": "Inicio",
+      "shops": "Tiendas",
+      "all_shops": "Todas las Tiendas",
+      "about": "Acerca de"
+    },
+    "user": {
+      "profile": "Tu Perfil",
+      "settings": "Ajustes",
+      "signout": "Cerrar Sesión"
+    }
+  },
+  "components": {
+    "HeroSearch": {
+      "title": [
+        "¿Necesitas alguna cosa?",
+        "Comprueba la disponibilidad en tiendas y farmacias cercanas."
+      ],
+      "description": "Encuentra todo lo que necesitas y reduce tus desplazamientos a zonas peligrosas."
+    },
+    "HeroFeatures": {
+      "intro": "¿Cómo funciona?",
+      "title": "Una forma más segura de comprar durante la cuarentena",
+      "description": "Queremos reducir la exposición al COVID-19 permitiendo a todo el mundo conocer la disponibilidad de los productos que buscan en sus tiendas cercanas",
+      "features": [
+        {
+          "title": "Explore your neighbourhood",
+          "description": "Find supermarkets and pharmacies near your home that offer the products you need."
+        },
+        {
+          "title": "Plan ahead",
+          "description": "Let us know the items that you need in and your location. We'll take care of the rest."
+        },
+        {
+          "title": "Go safely to the supermarket!",
+          "description": "We'll let you know the best time to go so you can avoid the long lines and empty shelves."
+        },
+        {
+          "title": "Help your community",
+          "description": "Update product availability levels from what you’ve seen at your local supermarket."
+        },
+        {
+          "title": "Unlock shiny rewards",
+          "description": "Become a trusted contributor and gain badges by improving the accuracy of your supermarket shelf information."
+        }
+      ]
+    },
+    "HeroForm": {
+      "title": "Una forma más segura de comprar durante la cuarentena",
+      "description": "Queremos reducir las exposiciones al COVID-19, optimizando tu visita al supermercado o farmacia, informándote sobre disponibilidad de productos en tu tienda más cercana."
+    }
+  },
+  "index": {
+    "shops": {
+      "title": "Supermercados con más stock",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+    }
+  }
+}

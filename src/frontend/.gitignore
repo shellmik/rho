@@ -1,0 +1,16 @@
+*.log
+.cache
+.DS_Store
+src/.temp
+node_modules
+dist
+.env
+.env.*
+.idea
+
+.now
+now.json
+# Local Netlify folder
+.netlify
+
+.idea
