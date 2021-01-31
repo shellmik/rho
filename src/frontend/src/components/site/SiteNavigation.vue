@@ -7,7 +7,7 @@
         <div class="flex">
           <div class="flex items-center flex-shrink-0">
             <g-link class="owl:ml-3 inline-flex items-center text-xl font-white" style="color: #bb86fc" :to="$tp && $tp('/')">
-              <img width="40" src="https://firebasestorage.googleapis.com/v0/b/cityhack21-6404b.appspot.com/o/logo%2Fpho-logo.png?alt=media&token=a4acc587-eb7a-4af2-a02e-694ba2cb7be7" />
+              <img width="40" src="https://firebasestorage.googleapis.com/v0/b/cityhack21-6404b.appspot.com/o/registration_material%2Fpho-logo.png?alt=media&token=50e86f43-87eb-4444-9bbe-6b008831c5be" />
               {{ siteName }}
             </g-link>
           </div>

@@ -43,7 +43,7 @@
                   </div>
                   <h6>Real-Time Camera</h6>
                   <h2>Click to view the presenter server</h2>
-                  <button class="btn" @click="viewFirstPresenter">Continue</button>
+                  <button class="btn" ><a href='http://127.0.0.1:8081' target='_blank'>Continue</a></button>
                 </div>
               </div>
             </div>
@@ -91,7 +91,7 @@ export default {
   },
   methods: {
     viewFirstPresenter(){
-      console.log('Jijoi');
+      
     },
     viewSecondPresenter(){
 

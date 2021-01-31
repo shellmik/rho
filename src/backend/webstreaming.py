@@ -27,7 +27,7 @@ app = Flask(__name__)
 # are viewing the stream)
 outputFrame = None
 lock = threading.Lock()
-vs = VideoStream(src='http://175.159.79.92:8080/video').start()
+vs = VideoStream(src='http://175.159.78.242:8080/video').start()
 time.sleep(2.0)
 fps = FPS().start()
 
