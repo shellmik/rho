@@ -1,6 +1,6 @@
 # import the necessary packages
-from pyimagesearch.centroidtracker import CentroidTracker
-from pyimagesearch.trackableobject import TrackableObject
+from model.centroidtracker import CentroidTracker
+from model.trackableobject import TrackableObject
 from imutils.video import VideoStream
 from imutils.video import FPS
 from flask import Response
